@@ -1,14 +1,18 @@
 # tvOS-StaticLibrary-KochavaEntitlements
 
-![GitHub release (latest by date including pre-releases)](https://img.shields.io/github/v/release/kochava/tvOS-StaticLibrary-KochavaEntitlements?include_prereleases)
+[![Releases](https://img.shields.io/github/v/release/kochava/tvOS-StaticLibrary-KochavaEntitlements?include_prereleases&sort=semver)](https://github.com/Kochava/tvOS-StaticLibrary-KochavaEntitlements/releases)
 
 <img src="https://storage.googleapis.com/kochava-web/2016/07/Kochava-horizontal-black-800x154.png" width="260" />
 
-## Apple Static-Library KochavaEntitlements
+## KochavaEntitlements
 
 The KochavaEntitlements swift package is an optional module within the Kochava SDK providing management of entitlements.  This includes a high-level interface to Apple's subscriptions service.
 
 The Kochava SDK is a lightweight and easy to integrate SDK written in Objective-C and Swift, providing first-class integration with Kochava’s industry leading mobile attribution and analytics platform.
+
+## Built on
+
+* Xcode 12
 
 ## Platforms
 
@@ -16,12 +20,11 @@ The Kochava SDK is a lightweight and easy to integrate SDK written in Objective-
 
 ## Dependencies
 
-* [KochavaCore](https://github.com/Kochava/tvOS-StaticLibrary-KochavaCore) 
-![GitHub release (latest by date including pre-releases)](https://img.shields.io/github/v/release/kochava/tvOS-StaticLibrary-KochavaCore?include_prereleases)
+* [KochavaCore](https://github.com/Kochava/tvOS-StaticLibrary-KochavaCore) [![Download](https://img.shields.io/github/v/release/kochava/tvOS-StaticLibrary-KochavaCore?include_prereleases&sort=semver)](https://github.com/Kochava/tvOS-StaticLibrary-KochavaCore/releases)
 
-## Installation
+## Integration
 
-[Kochava Apple SDK - Getting Started](https://support.kochava.com/sdk-integration/sdk-kochavatracker-ios)
+[Kochava Apple SDK Integration](https://support.kochava.com/sdk-integration/sdk-kochavatracker-ios)
 
 ## Author
 
