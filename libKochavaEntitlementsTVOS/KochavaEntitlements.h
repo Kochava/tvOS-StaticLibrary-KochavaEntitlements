@@ -13,8 +13,10 @@
 
 
 
+#pragma mark KochavaCore
 #import "KochavaCore.h"
 
+#pragma mark KochavaEntitlements
 #import "KVAEntitlements.h"
 #import "KVAEntitlementsProduct.h"
 #import "KVAReceipt.h"
